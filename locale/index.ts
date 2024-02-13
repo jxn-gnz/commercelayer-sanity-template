@@ -22,7 +22,8 @@ const locale: Locale = {
     languages: {
       "en-us": "english",
       "it-it": "italian",
-      "fr-fr": "french"
+      "fr-fr": "french",
+      "de-de": "german"
     },
     method: "method",
     outOfStock: "The requested quantity is not available",
@@ -62,7 +63,8 @@ const locale: Locale = {
     languages: {
       "en-us": "inglese",
       "it-it": "italiano",
-      "fr-fr": "francese"
+      "fr-fr": "francese",
+      "de-de": "german"
     },
     method: "metodo",
     outOfStock: "La quantità richiesta non è disponibile",
@@ -105,7 +107,8 @@ const locale: Locale = {
     languages: {
       "en-us": "anglais",
       "it-it": "italian",
-      "fr-fr": "français"
+      "fr-fr": "français",
+      "de-de": "german"
     },
     method: "méthode",
     outOfStock: "La quantité demandée n'est pas disponible",
@@ -130,6 +133,47 @@ const locale: Locale = {
     subscribeText:
       "Les dernières nouvelles, produits et réductions, envoyés chaque semaine dans votre boîte de réception",
     subscribePlaceholder: "Entrez votre adresse email"
+  },
+  "de-de": {
+    languageName: "Deutsch",
+    welcome: "Hallo",
+    addToCart: "In den Warenkorb legen",
+    available: "verfügbar",
+    notAvailable: "Nicht verfügbar",
+    categories: "Kategorien",
+    startShopping: "Mit dem Einkaufen beginnen",
+    learnMore: "Mehr erfahren",
+    continueShopping: "Mit dem Einkaufen fortfahren",
+    shoppingBag: "Einkaufstasche",
+    days: "Tage",
+    freeOver: "kostenlos über",
+    language: "Sprache",
+    languages: {
+      "en-us": "Englisch",
+      "it-it": "Italienisch",
+      "fr-fr": "Französisch",
+      "de-de": "Deutsch"
+    },
+    method: "Methode",
+    outOfStock: "Die angeforderte Menge ist nicht verfügbar",
+    price: "Preis",
+    selectSize: "Wähle deine Größe aus",
+    shippingTo: "Versand nach",
+    backToAllProducts: "Zurück zu allen Produkten",
+    reviews: "Bewertungen",
+    total: "Gesamt",
+    subTotal: "Zwischensumme",
+    discount: "Rabatt",
+    taxes: "Steuern",
+    giftCard: "Geschenkkarte",
+    items: "Artikel",
+    viewMore: "Mehr anzeigen",
+    emptyProducts: "Keine Produkte",
+    shipping: "Versand",
+    subscribe: "Abonnieren",
+    subscribeTitle: "Abonnieren Sie unseren Newsletter",
+    subscribeText: "Die neuesten Nachrichten, Produkte und Rabatte, wöchentlich in Ihr Postfach gesendet",
+    subscribePlaceholder: "Geben Sie Ihre E-Mail-Adresse ein"
   }
 };
 
